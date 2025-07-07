@@ -1082,7 +1082,7 @@
     "data": {
       "status": 200,
       "result": {
-        "tukhoa": "NGÔI NHÀ TRONG HẼM",
+        "tukhoa": "NGÔI NHÀ TRONG HẺM",
         "sokitu": "☐☐☐☐ ☐☐☐ ☐☐☐☐☐ ☐☐☐",
         "suggestions": "N☐☐☐ N☐☐ T☐☐☐☐ H☐☐",
         "link1": "https://i.ibb.co/RSkhc7h/a57d995a31df.jpg",
@@ -2252,7 +2252,7 @@
       },
       "author": "https://www.facebook.com/support.manhict"
     }
-  },
+  }, 
   {
     "timestamp": "2025-07-02T13:55:00.637Z",
     "data": {
